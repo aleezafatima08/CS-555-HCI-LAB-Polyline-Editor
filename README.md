@@ -113,13 +113,18 @@ The system must:
 - **Point Selection Accuracy:** Hard to click exactly on a vertex → solution: nearest-point detection  
 
 ---
+Link to the Deployed Application
 
-## 11. Opportunities for Improvement
-- Add buttons alongside keyboard shortcuts  
-- Include tooltips for guidance  
-- Add Undo/Redo functionality  
-- Highlight selected points visually  
-- Implement grid snapping for precision  
+🔗 https://polyline-editor-lab.vercel.app/
+
+---
+
+References
+
+- Dix, A., Finlay, J., Abowd, G. D., & Beale, R. (2004). Human-Computer Interaction (3rd ed.)
+- Interaction Design Process – Figure 5.1
+- Nielsen’s Usability Heuristics
+- HCI Lab Manual – Polyline Editor Assignment
 
 ---
 
